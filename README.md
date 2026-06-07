@@ -1,4 +1,4 @@
-# Projeto-dio.
+#  Caderno de Estudos — Clean Code (Robert C. Martin) 
 
 À medida que avanço na carreira na área de tecnologia e automação financeira, percebo que a capacidade de escrever código legível, manutenível e expressivo é tão importante quanto dominar a lógica em si. O mercado valoriza profissionais que produzem código que outros podem entender e evoluir — não apenas código que funciona.
 
@@ -27,6 +27,11 @@ O livro foi escrito em 2008 e algumas práticas são consideradas "otimização 
 Não é recomendável para iniciantes absolutos — é preciso "experimentar o caos" primeiro
 Regras como uso excessivo de polimorfismo e injeção de dependência podem gerar complexidade desnecessária
 DIFICULDADE: O notebookLM, teve tendência a defender o livro
+
+MINI GUIA DE ESTUDO
+Nomes Significativos: Nomes devem revelar a intenção — sem abreviações misteriosas
+Funções Pequenas: Cada função deve fazer apenas uma coisa
+DRY: Não repita lógica — centralize em uma única função reutilizáve
 
 Definiçao das palavras
 Clean Code - Código escrito de forma legível, expressiva e manutenível, focado na compreensão humana
